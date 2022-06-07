@@ -13,15 +13,22 @@
   "devDependencies": {
     "@commitlint/cli": "^17.0.2",
     "@commitlint/config-conventional": "^17.0.2",
+    "@semantic-release/changelog": "^6.0.1",
     "husky": "^8.0.1",
     "jest": "^28.1.0",
     "semantic-release": "^19.0.2"
   },
   "release": {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/github"
+    ],
     "branches": [
       "main",
       "next"
     ]
-  },
-  "dependencies": {}
+  }
 }
