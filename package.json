@@ -12,5 +12,11 @@
   "devDependencies": {
     "jest": "^28.1.0",
     "semantic-release": "^19.0.2"
+  },
+  "release": {
+    "branches": [
+      "main",
+      "next"
+    ]
   }
 }
