@@ -1,0 +1,16 @@
+{
+  "name": "auto-releasing",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "semantic-release": "^19.0.2"
+  }
+}
