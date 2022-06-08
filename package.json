@@ -1,13 +1,18 @@
 {
   "name": "auto-releasing",
   "version": "0.0.0-development",
-  "description": "",
+  "description": "An example repository to learn how to publish package",
   "main": "index.js",
   "scripts": {
     "test": "jest test.js",
     "prepare": "husky install"
   },
-  "keywords": [],
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "auto-release"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
