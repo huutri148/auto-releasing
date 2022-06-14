@@ -2,9 +2,9 @@
   "name": "auto-releasing",
   "version": "0.0.0-development",
   "description": "An example repository to learn how to publish package",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "jest test.js",
+    "test": "jest src/test.js",
     "prepare": "husky install"
   },
   "keywords": [
@@ -14,7 +14,7 @@
     "auto-release"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@commitlint/cli": "^17.0.2",
     "@commitlint/config-conventional": "^17.0.2",
