@@ -3,7 +3,8 @@ name: Release npm package
 on:
   push:
     branches:
-      - main
+      - master
+      - rc
 
 jobs:
   release:
