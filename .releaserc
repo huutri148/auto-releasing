@@ -27,8 +27,5 @@
       "name": "rc",
       "prerelease": true
     }
-  ],
-  "extends": [
-    "semantic-release-config-gitmoji"
   ]
 }
