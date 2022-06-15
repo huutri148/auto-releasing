@@ -13,7 +13,7 @@
     "package",
     "auto-release"
   ],
-  "author": "",
+  "author": "Trấyssss",
   "license": "MIT",
   "devDependencies": {
     "@commitlint/cli": "^17.0.2",
@@ -31,5 +31,10 @@
     "prettier": "^2.7.0",
     "semantic-release": "^19.0.2",
     "semantic-release-config-gitmoji": "^1.2.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huutri148/auto-releasing.git"
+  },
+  "homepage": "https://github.com/huutri148/auto-releasing#readme"
 }
