@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/huutri148/auto-releasing/compare/v1.3.0...v1.3.1) (2022-06-15)
+
+
+### Bug Fixes
+
+* change function ([87515b9](https://github.com/huutri148/auto-releasing/commit/87515b993439f989f301ac6e80261c19f8256687))
+
 # [1.3.0](https://github.com/huutri148/auto-releasing/compare/v1.2.3...v1.3.0) (2022-06-15)
 
 
