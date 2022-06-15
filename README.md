@@ -9,4 +9,6 @@
 An example repository to learn how to publish an package
 > Based on **semver** [click here](https://semver.org/)
 
+## License
 
+[MIT](./LICENSE) ® HuuTri148
