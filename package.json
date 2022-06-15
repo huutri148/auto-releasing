@@ -29,6 +29,7 @@
     "husky": "^8.0.1",
     "jest": "^28.1.0",
     "prettier": "^2.7.0",
-    "semantic-release": "^19.0.2"
+    "semantic-release": "^19.0.2",
+    "semantic-release-config-gitmoji": "^1.2.4"
   }
 }
