@@ -3,7 +3,7 @@ const sub = require("./sub");
 const multiple= require("./multiple");
 
 test("add", () => {
-  expect(add(1, 2)).toEqual(3);
+  expect(add(3, 2)).toEqual(1);
 });
 
 test("sub", () => {
