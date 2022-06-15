@@ -6,5 +6,5 @@ test("add", () => {
 });
 
 test("sub", () => {
-  expect(add(3, 2)).toEqual(1);
+  expect(sub(3, 2)).toEqual(1);
 });
