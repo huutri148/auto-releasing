@@ -1,3 +1,25 @@
+# [1.4.0](https://github.com/huutri148/auto-releasing/compare/v1.3.1...v1.4.0) (2022-06-15)
+
+
+### Features
+
+* add divine function ([d3b0c66](https://github.com/huutri148/auto-releasing/commit/d3b0c6642d2a48163efe5fd1eccf9765767c59aa))
+* add function ([1820e7d](https://github.com/huutri148/auto-releasing/commit/1820e7d1510775df00de4c17f4de5776dffb3ab4))
+
+## [1.3.1](https://github.com/huutri148/auto-releasing/compare/v1.3.0...v1.3.1) (2022-06-15)
+
+
+### Bug Fixes
+
+* change function ([87515b9](https://github.com/huutri148/auto-releasing/commit/87515b993439f989f301ac6e80261c19f8256687))
+
+# [1.3.0](https://github.com/huutri148/auto-releasing/compare/v1.2.3...v1.3.0) (2022-06-15)
+
+
+### Features
+
+* add multiple function ([ebf9248](https://github.com/huutri148/auto-releasing/commit/ebf924889bee4776592bfb9700423faed1a97998))
+
 ## [1.2.3](https://github.com/huutri148/auto-releasing/compare/v1.2.2...v1.2.3) (2022-06-15)
 
 
