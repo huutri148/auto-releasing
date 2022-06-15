@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/huutri148/auto-releasing/compare/v1.3.1...v1.4.0) (2022-06-15)
+
+
+### Features
+
+* add divine function ([d3b0c66](https://github.com/huutri148/auto-releasing/commit/d3b0c6642d2a48163efe5fd1eccf9765767c59aa))
+* add function ([1820e7d](https://github.com/huutri148/auto-releasing/commit/1820e7d1510775df00de4c17f4de5776dffb3ab4))
+
 ## [1.3.1](https://github.com/huutri148/auto-releasing/compare/v1.3.0...v1.3.1) (2022-06-15)
 
 
