@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/huutri148/auto-releasing/compare/v1.2.3...v1.3.0) (2022-06-15)
+
+
+### Features
+
+* add multiple function ([ebf9248](https://github.com/huutri148/auto-releasing/commit/ebf924889bee4776592bfb9700423faed1a97998))
+
 ## [1.2.3](https://github.com/huutri148/auto-releasing/compare/v1.2.2...v1.2.3) (2022-06-15)
 
 
