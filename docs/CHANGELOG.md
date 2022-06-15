@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/huutri148/auto-releasing/compare/v1.2.2...v1.2.3) (2022-06-15)
+
+
+### Bug Fixes
+
+* gitmoji with commitlint and semantic-release ([d5c851f](https://github.com/huutri148/auto-releasing/commit/d5c851f213df310304b25790a413e1be9d649abd))
+
 ## [1.2.2](https://github.com/huutri148/auto-releasing/compare/v1.2.1...v1.2.2) (2022-06-14)
 
 
